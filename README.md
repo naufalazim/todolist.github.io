@@ -1,6 +1,6 @@
 # todolist.github.io
 
-## To do list App! 
+## To do list App by si nopal 1.0
 
 Ada masalah selalu terlupa beli barang? Guna to do list dari si nopal!
 
